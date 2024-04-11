@@ -1,6 +1,6 @@
 # DIO AI-900✨
 
-#### Projeto da DIO para analise se sentimento e transversão de Texto em Voz ou Voz em Texto
+#### Projeto da DIO transversão de Texto em Voz ou Voz em Texto e Aanalise de sentimento.
 
 ### Segue a imagem com objetivo concluido no Estudio Azure, 
 
