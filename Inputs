@@ -1,0 +1,36 @@
+Documento de texto com algumas sentençãos para analise:
+
+1. O céu estava limpo e azul, sem nuvens à vista.
+Sentimento da frase
+Neutro
+Confiança: 42,00%
+42,00%
+POSITIVO
+55,00%
+NEUTRO
+4,00%
+NEGATIVO
+
+2. O cachorro correu animado pelo parque, brincando com outros animais.
+Sentimento analisado
+Sentimento do documento
+Positivo
+Confiança: 73,00%
+73,00%
+POSITIVO
+24,00%
+NEUTRO
+2,00%
+NEGATIVO
+
+3. Ela sorriu ao ver o pôr do sol refletindo nas águas calmas do lago.
+Sentimento analisado
+Sentimento do documento
+Neutro
+Confiança: 38,00%
+38,00%
+POSITIVO
+59,00%
+NEUTRO
+3,00%
+NEGATIVO
